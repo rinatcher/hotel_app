@@ -1,0 +1,5 @@
+production:
+  cloud_name: "rinatcher"
+  api_key: "875356529379332"
+  api_secret: "v1O9dg_pZlFF128X45ppZcpz4PA"
+  secure: true
